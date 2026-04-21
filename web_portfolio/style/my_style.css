@@ -1,0 +1,31 @@
+
+hl{
+    font-size:2.8em;
+    font-weight:bold;
+    color:aquamarine;
+    text-align:center;
+}
+ul{ 
+    list-style-type:none;
+
+}
+
+body{
+    font-size: 1em;
+    font-weight: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: left;
+    width: 1000px;
+    margin: 0 auto;
+}
+#first{
+    background-color: seagreen
+}
+.orange{
+    background-color: orange;
+}
+.circle{
+    background-color: royalblue;
+    border-radius: 50%
+}
